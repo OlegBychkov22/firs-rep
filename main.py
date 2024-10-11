@@ -5,4 +5,5 @@ def print_hi(name):
 
 if __name__ == '__main__':
     print_hi('PyCharm')
-
+def second_func():
+    return 1
